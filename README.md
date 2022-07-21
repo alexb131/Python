@@ -2,6 +2,9 @@ This will be a repository for my Python projects/work.
 ## From the *100 Days of Code: The Complete Python Pro Bootcamp for 2022* Udemy course
 *click project hyperlink to naviagate to repl to run/view code 
 
+Day 5 - Beginner - Python Loops\
+[Day 5 Project: Password Generator](https://replit.com/@alexb131/password-generator-start)
+
 Day 4 - Beginner - Randomisation and Python Lists\
 [Day 4 Project: Rock Paper Scissors](https://replit.com/@alexb131/rock-paper-scissors-start)
 
